@@ -1,2 +1,3 @@
 .ipynb_checkpoints*
 Gin_and_tonic_nutrients.csv
+.env
